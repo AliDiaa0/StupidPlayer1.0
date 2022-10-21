@@ -1,0 +1,13 @@
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1.0.csproj.AssemblyReference.cache
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1._0.StupidForm.resources
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1.0.csproj.GenerateResource.cache
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1.0.csproj.CoreCompileInputs.cache
+D:\C#Projects\StupidPlayer1.0\bin\Debug\StupidPlayer1.0.exe
+D:\C#Projects\StupidPlayer1.0\bin\Debug\StupidPlayer1.0.pdb
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1._0.Properties.Resources.resources
+D:\C#Projects\StupidPlayer1.0\bin\Debug\StupidPlayer1.0.exe.config
+C:\Users\Ali\Desktop\For Windows XP\StupidPlayer1.0XP.exe.config
+C:\Users\Ali\Desktop\For Windows XP\StupidPlayer1.0XP.exe
+C:\Users\Ali\Desktop\For Windows XP\StupidPlayer1.0XP.pdb
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1.0.exe
+D:\C#Projects\StupidPlayer1.0\obj\Debug\StupidPlayer1.0.pdb
